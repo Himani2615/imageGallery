@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Himani2615/imageGallery.git/static/css/main.c44687de.css",
-    "main.js": "/Himani2615/imageGallery.git/static/js/main.c59ff5f6.js",
-    "static/js/453.6fc9ade6.chunk.js": "/Himani2615/imageGallery.git/static/js/453.6fc9ade6.chunk.js",
-    "index.html": "/Himani2615/imageGallery.git/index.html",
-    "main.c44687de.css.map": "/Himani2615/imageGallery.git/static/css/main.c44687de.css.map",
-    "main.c59ff5f6.js.map": "/Himani2615/imageGallery.git/static/js/main.c59ff5f6.js.map",
-    "453.6fc9ade6.chunk.js.map": "/Himani2615/imageGallery.git/static/js/453.6fc9ade6.chunk.js.map"
+    "main.css": "/imageGallery/static/css/main.c44687de.css",
+    "main.js": "/imageGallery/static/js/main.b2ca1e95.js",
+    "static/js/453.6fc9ade6.chunk.js": "/imageGallery/static/js/453.6fc9ade6.chunk.js",
+    "index.html": "/imageGallery/index.html",
+    "main.c44687de.css.map": "/imageGallery/static/css/main.c44687de.css.map",
+    "main.b2ca1e95.js.map": "/imageGallery/static/js/main.b2ca1e95.js.map",
+    "453.6fc9ade6.chunk.js.map": "/imageGallery/static/js/453.6fc9ade6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c44687de.css",
-    "static/js/main.c59ff5f6.js"
+    "static/js/main.b2ca1e95.js"
   ]
 }
